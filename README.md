@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying TYBCA at S.M.T Z.S Patel College, Bachelor's of Computer Applications.<br>Looking for a front-end developer position.<br>
+Currently studying TYBCA at S.M.T Z.S Patel College Bachelor's of Computer Applications.<br>Looking for a front-end developer position.<br>
 
 
 # 💻 Tech Stack:
