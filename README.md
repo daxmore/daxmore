@@ -1,5 +1,24 @@
 # 💫 About Me:
-Currently studying TYBCA at S.M.T Z.S Patel College Bachelor's of Computer Applications.<br>Looking for a front-end developer position.<br>
+👋 Hi there! I'm a Front-End Developer in the making
+I'm currently pursuing my Bachelor's of Computer Applications (TYBCA) at S.M.T. Z.S. Patel College. With a strong passion for front-end development, I enjoy turning ideas into interactive, animated, and responsive websites that not only function well but also provide an engaging user experience.
+
+💻 What I Do
+🌐 I specialize in HTML, CSS, JavaScript, and have hands-on experience with frameworks like React.
+
+🎨 I have a keen interest in UI/UX design, animations, and building seamless user interfaces.
+
+📱 I focus on making websites mobile-friendly and responsive across all screen sizes.
+
+⚙️ I love experimenting with modern front-end tools and technologies.
+
+🚀 What I'm Looking For
+I'm actively seeking a Front-End Developer role where I can contribute to real-world projects, grow my skills, and collaborate with other developers to build high-quality web applications.
+
+📚 Always Learning
+I'm continuously learning new technologies, exploring open-source projects, and working on personal projects to sharpen my front-end skills.
+
+🔗 Let's Connect
+If you're looking for a passionate, creative, and motivated front-end developer, feel free to reach out or check out some of my projects here on GitHub!<br>
 
 
 # 💻 Tech Stack:
