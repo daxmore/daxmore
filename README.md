@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Hi there! I'm a Front-End Developer in the making
+# 💫 About Me: 
+👋 Hi there! I'm a Front-End Developer in the making
 I'm currently pursuing my Bachelor's of Computer Applications (TYBCA) at S.M.T. Z.S. Patel College. With a strong passion for front-end development, I enjoy turning ideas into interactive, animated, and responsive websites that not only function well but also provide an engaging user experience.
 
 💻 What I Do
